@@ -6,6 +6,7 @@
     "watch": "chokidar '**/*' -i 'dest/**/*' -c 'npm run build'",
     "prestart": "npm run build",
     "start": "npm run watch & live-server dest",
+    "serve": "live-server dest",
     "pregh": "npm run build",
     "gh": "gh-pages -d dest"
   },
