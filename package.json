@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/sneas/cv-project#readme",
   "devDependencies": {
+    "@angular/cli": "^6.2.1",
     "chokidar-cli": "1.2.0",
     "fs-extra": "4.0.2",
     "gh-pages": "^1.0.0",
